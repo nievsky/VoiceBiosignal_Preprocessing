@@ -2,7 +2,7 @@
 
 **Course:** Advanced Computer Signal Processing (KI/PZS)  
 **Institution:** Jan Evangelista Purkyně University in Ústí nad Labem (UJEP)  
-**Author:** Aleksandr Demin (Student ID: F24343)  
+**Author:** Aleksandr Demin
 **Academic Term:** 2025/2026  
 **Repository Module:** `report_1_physiological_signals`
 
