@@ -1,0 +1,38 @@
+# Large physiological and voice datasets (downloaded from PhysioNet)
+data/*
+!data/README.md
+*.dat
+*.hea
+*.atr
+*.xws
+*.zip
+*.tar.gz
+*.csv
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Operating System and Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
