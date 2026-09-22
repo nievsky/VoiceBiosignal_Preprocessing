@@ -5,39 +5,9 @@
 [![Data: PhysioNet](https://img.shields.io/badge/Data-PhysioNet-red.svg)](https://physionet.org/)
 [![Code Style: Clean](https://img.shields.io/badge/code%20style-modular-brightgreen.svg)]()
 
-A comprehensive research and engineering portfolio combining physiological biosignal analysis and acoustic voice pathology characterization. Developed as part of the **Advanced Computer Signal Processing (KI/PZS)** curriculum at **Jan Evangelista Purkyně University in Ústí nad Labem (UJEP)**.
-
-**Author:** Aleksandr Demin (Student ID: `F24343`, GitHub: [`@sanyanevsky`](https://github.com/sanyanevsky))  
 **Academic Term:** 2025/2026
 
----
 
-## Portfolio Overview
-
-This repository unites two comprehensive seminar research projects into a unified, publication-grade codebase. The projects remain cleanly separated into dedicated modules while sharing standard installation, reproducibility tools, and visualization pipelines.
-
-```
-biosignal-processing-reports/
-├── report_1_physiological_signals/   # Seminar Work 1: ECG & Multimodal Hemodynamics
-│   ├── README.md                     # Full academic research report (English)
-│   ├── figures/                      # 9 High-resolution research figures
-│   ├── notebooks/                    # Interactive Jupyter notebooks with outputs
-│   └── src/                          # Modular Python library & CLI runner
-│
-├── report_2_voice_pathology/         # Seminar Work 2: Acoustic Voice Pathology
-│   ├── README.md                     # Full academic research report (English)
-│   ├── figures/                      # 5 High-resolution research figures
-│   ├── notebooks/                    # Interactive Jupyter notebook with outputs
-│   └── src/                          # Modular Python library & CLI runner
-│
-├── data/                             # Dataset acquisition guide & directory
-│   └── README.md                     # PhysioNet download & structure documentation
-├── pyproject.toml                    # Modern Python packaging configuration
-├── requirements.txt                  # Pinned dependency manifest
-└── LICENSE                           # MIT Open-Source License
-```
-
----
 
 ## Executive Summary of Projects
 
